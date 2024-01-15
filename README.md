@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **[Biosense](https://github.com/vp2306/biosense)** and **[Noted AI](https://github.com/vp2306/Noted-AI)**
 
-- 🌱 I’m currently familiarizing my self with **TypeScript, Next.js, AWS**
+- 🌱 I’m currently familiarizing my self with **TypeScript, Next.js, Flask, AWS**
 
-- 📫 How to reach me **patev70@mcmaster.ca**
+- 📫 Reach me at **patev70@mcmaster.ca**
 
 - 📄 Know about my experiences **[resume](https://drive.google.com/file/d/1dla00tBbetu6JnFoNYUIFlNTcAqfaXAG/view?usp=sharing)**
 
