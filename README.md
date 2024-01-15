@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Biosense](https://github.com/vp2306/biosense)
+- 🔭 I’m currently working on **[Biosense](https://github.com/vp2306/biosense)** and **[Noted AI](https://github.com/vp2306/Noted-AI)**
 
 - 🌱 I’m currently familiarizing my self with **TypeScript, Next.js, AWS**
 
 - 📫 How to reach me **patev70@mcmaster.ca**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1dla00tBbetu6JnFoNYUIFlNTcAqfaXAG/view?usp=sharing)
+- 📄 Know about my experiences **[resume](https://drive.google.com/file/d/1dla00tBbetu6JnFoNYUIFlNTcAqfaXAG/view?usp=sharing)**
 
 - 🗣️ Talk to me about **Startups, Finance, Politics, and Martial Arts**
 
