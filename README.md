@@ -20,7 +20,7 @@
 
 <h3 align="left">Tech stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,express,firebase,flask,java,mongodb,nextjs,nodejs,py,react,tailwind,ts,)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vp2306&show_icons=true&locale=en&layout=compact" alt="vp2306" /></p>
 
