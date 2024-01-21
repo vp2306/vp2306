@@ -8,8 +8,6 @@
 
 - 📫 Reach me at **patev70@mcmaster.ca**
 
-- 📄 Know about my experiences **[resume](https://drive.google.com/file/d/1eLIxe2hR2dtuNzqpMi2htn5UK2tJjdUs/view?usp=sharing)**
-
 - 🗣️ Talk to me about **Startups, Finance, Politics, and Martial Arts**
 
 <h3 align="left">Connect with me:</h3>
