@@ -1,12 +1,12 @@
 <h1 align="left">Vedant Patel</h1>
 
-- 🔭 Currently working on **[Biosense](https://www.biosense.one/)** and **[Noted AI](https://github.com/vp2306/Noted-AI)**
+- Currently working on **[Biosense](https://www.biosense.one/)** and **[Noted AI](https://github.com/vp2306/Noted-AI)**
 
-- 🌱 Building more with **TypeScript, Next.js, Flask, AWS**
+- Building more with **TypeScript, Next.js, Flask, AWS**
 
-- 📫 Reach me at **patev70@mcmaster.ca**
+- Reach me at **patev70@mcmaster.ca**
 
-- 🗣️ Talk to me about **Startups, Finance, Politics, and Martial Arts**
+- Talk to me about **Startups, Finance, Politics, and Martial Arts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
