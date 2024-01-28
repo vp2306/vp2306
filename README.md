@@ -1,8 +1,8 @@
 <h1 align="left">Vedant Patel</h1>
 
-- 🔭 I’m currently working on **[Biosense](https://github.com/vp2306/biosense)** and **[Noted AI](https://github.com/vp2306/Noted-AI)**
+- 🔭 Working on **[Biosense](https://github.com/vp2306/biosense)** and **[Noted AI](https://github.com/vp2306/Noted-AI)**
 
-- 🌱 I’m currently building more with **TypeScript, Next.js, Flask, AWS**
+- 🌱 Building more with **TypeScript, Next.js, Flask, AWS**
 
 - 📫 Reach me at **patev70@mcmaster.ca**
 
