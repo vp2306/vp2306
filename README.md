@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **[Biosense](https://github.com/vp2306/biosense)** and **[Noted AI](https://github.com/vp2306/Noted-AI)**
 
-- 🌱 I’m currently familiarizing my self with **TypeScript, Next.js, Flask, AWS**
+- 🌱 I’m currently building more with **TypeScript, Next.js, Flask, AWS**
 
 - 📫 Reach me at **patev70@mcmaster.ca**
 
