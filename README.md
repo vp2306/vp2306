@@ -1,6 +1,6 @@
 <h1 align="left">Vedant Patel</h1>
 
-- 🔭 Working on **[Biosense](https://github.com/vp2306/biosense)** and **[Noted AI](https://github.com/vp2306/Noted-AI)**
+- 🔭 Working on **[Biosense](https://www.biosense.one/)** and **[Noted AI](https://github.com/vp2306/Noted-AI)**
 
 - 🌱 Building more with **TypeScript, Next.js, Flask, AWS**
 
