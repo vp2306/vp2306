@@ -4,9 +4,11 @@
 
 - Building more with **TypeScript, Next.js, Flask, AWS**
 
+- Talk to me about **Startups, Finance, Politics, and Martial Arts**
+
 - Reach me at **patev70@mcmaster.ca**
 
-- Talk to me about **Startups, Finance, Politics, and Martial Arts**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
