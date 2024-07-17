@@ -6,7 +6,7 @@
 
 - Talk to me about **Startups, Finance, Politics, and Martial Arts**
 
-- Reach me at **patev70@mcmaster.ca**
+- Reach out to me at **patev70@mcmaster.ca**
 
 
 
