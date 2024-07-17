@@ -1,6 +1,6 @@
 <h1 align="left">Vedant Patel</h1>
 
-- Currently working on **[Biosense](https://www.biosense.one/)** and **[Noted AI](https://github.com/vp2306/Noted-AI)**
+- Currently building payroll automations at **Rivvi**
 
 - Building more with **TypeScript, Next.js, Flask, AWS**
 
