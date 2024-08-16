@@ -16,9 +16,6 @@
 <a href="https://twitter.com/buytslacalls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buytslacalls" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tech stack:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,express,firebase,flask,java,mongodb,nextjs,nodejs,py,react,tailwind,ts,)](https://skillicons.dev)
 
 
 
