@@ -2,7 +2,7 @@
 
 - Currently building payroll automations at **Rivvi**
 
-- Building more with **TypeScript, Next.js, Flask, AWS**
+- Building more with **TypeScript, Next.js, Spring, AWS**
 
 - Talk to me about **Startups, Finance, Politics, and Martial Arts**
 
