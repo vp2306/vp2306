@@ -1,12 +1,12 @@
 <h1 align="left">Vedant Patel</h1>
 
-- Currently building payroll automations at **Rivvi**
+- DevSecOps at **General Dynamics**
 
-- Building more with **TypeScript, Next.js, Spring, AWS**
+- Building more with **Go, PostgresSQL, Kubernetes, AWS**
 
 - Talk to me about **Startups, Finance, Politics, and Martial Arts**
 
-- Reach out to me at **patev70@mcmaster.ca**
+- Reach out to at **patev70@mcmaster.ca**
 
 
 
