@@ -22,7 +22,7 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/>
 </div>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vp2306)](https://github.com/vp2306/github-readme-stats)
+// [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vp2306)](https://github.com/vp2306/github-readme-stats)
 
 
 
