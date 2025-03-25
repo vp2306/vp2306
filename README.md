@@ -2,7 +2,7 @@
 
 - DevSecOps at **General Dynamics**
 
-- Building more with **Go, PostgresSQL, Kubernetes, AWS**
+- Building more with **Go**
 
 - Talk to me about **Startups, Finance, Politics, and Martial Arts**
 
