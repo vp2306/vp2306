@@ -1,12 +1,9 @@
 <h1 align="left">Vedant Patel</h1>
 
-- DevSecOps at **General Dynamics**
-
-- Building more with **Go**
-
-- Talk to me about **Startups, Finance, Politics, and Martial Arts**
-
-- Reach out to at **patev70@mcmaster.ca**
+- 🛡️ DevSecOps @ **General Dynamics**  
+- ⚙️ Building with **Go** and **Infrastructure** tools  
+- 💬 Talk to me about **Startups**, **Finance**, **Politics**, and **Martial Arts**  
+- 📫 Reach me at **patev70@mcmaster.ca**
 
 
 
