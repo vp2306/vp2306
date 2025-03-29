@@ -11,9 +11,9 @@
 
 
 <h3 align="left">Technologies:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgres,terraform,ansible,aws,linux" />
   </a>
 </p>
 
